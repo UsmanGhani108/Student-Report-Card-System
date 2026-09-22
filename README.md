@@ -1,4 +1,3 @@
-# Student-Report-Card-System
 # Student Report Card System
 
 A beginner-friendly Python project that generates a student's report card using basic Python programming concepts.
