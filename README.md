@@ -106,6 +106,6 @@ Possible improvements for future versions:
 
 ## Author
 
-**Usman Ghani**
+**Muhammad Usman Ghani**
 
 This project is part of my Python learning journey and is one of my first practical Python projects.
